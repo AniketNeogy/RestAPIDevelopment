@@ -6,9 +6,9 @@
 
 *Sample scripts for creating a Webservices(REST API) using the JAX and Jersey Client. Here we used Maven as the build tool (check the pom.xml for the project dependencies).*
 
-- Get Request:
--- using Json
--- usinh XML
+**Get Request:**
+- *[Using Json](https://github.com/AniketNeogy/RestAPIDevelopmentDemo/blob/master/src/com/aniket/get/RestResponseJSONService.java)*
+- *[Using XML](https://github.com/AniketNeogy/RestAPIDevelopmentDemo/blob/master/src/com/aniket/get/RestResponseXMLService.java)*
 
 ### Build with
 
