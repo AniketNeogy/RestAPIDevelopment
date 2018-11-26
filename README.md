@@ -2,7 +2,7 @@
 
 *REST API Get and Post requests developned for both JSON and XML.*
 
-## Project Desceiption
+## Project Description
 
 *Sample scripts for creating a Webservices(REST API) using the JAX and Jersey Client. Here we used Maven as the build tool (check the pom.xml for the project dependencies).*
 
