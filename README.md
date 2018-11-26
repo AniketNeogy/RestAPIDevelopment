@@ -11,7 +11,7 @@
 - **Jax - WS**
 - **Jersey Client**
 - **Apache Tomcat v8.0**
-- **[Maven Dependencies]**(https://github.com/AniketNeogy/RestAPIDevelopmentDemo/blob/master/pom.xml)
+- **[Maven Dependencies](https://github.com/AniketNeogy/RestAPIDevelopmentDemo/blob/master/pom.xml)**
 
 ### References
 
