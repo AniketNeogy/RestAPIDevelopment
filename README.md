@@ -8,9 +8,9 @@
 
 ### Build with
 
-- **Jax - WS**
-- **Jersey Client**
-- **Apache Tomcat v8.0**
+- **[Jax - WS](https://www.javatpoint.com/jax-ws-tutorial)**
+- **[Jersey Client](https://jersey.github.io/)**
+- **[Apache Tomcat v8.0](https://help.eclipse.org/neon/index.jsp?topic=%2Forg.eclipse.stardust.docs.wst%2Fhtml%2Fwst-integration%2Fconfiguration.html)**
 - **[Maven Dependencies](https://github.com/AniketNeogy/RestAPIDevelopmentDemo/blob/master/pom.xml)**
 
 ### References
