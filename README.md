@@ -14,14 +14,14 @@
   * *[Using Json](https://github.com/AniketNeogy/RestAPIDevelopmentDemo/blob/master/src/com/aniket/post/RestRequestJSONService.java)*
   * *[Using XML](https://github.com/AniketNeogy/RestAPIDevelopmentDemo/blob/master/src/com/aniket/post/RestRequestXMLService.java)*
 
-### Build with
+## Build with
 
 - **[Jax - WS](https://www.javatpoint.com/jax-ws-tutorial)**
 - **[Jersey Client](https://jersey.github.io/)**
 - **[Apache Tomcat v8.0](https://help.eclipse.org/neon/index.jsp?topic=%2Forg.eclipse.stardust.docs.wst%2Fhtml%2Fwst-integration%2Fconfiguration.html)**
 - **[Maven Dependencies](https://github.com/AniketNeogy/RestAPIDevelopmentDemo/blob/master/pom.xml)**
 
-### References
+## References
 
 - [*How to build RESTful Service with Java using JAX-RS and Jersey (Your First RESTFul Service Example)*](https://crunchify.com/how-to-build-restful-service-with-java-using-jax-rs-and-jersey/)
 - [*Learn Jersey Web Service Youtube PlayList*](https://www.youtube.com/watch?v=rk-Sg7Ml6xQ&list=PL050q0IOLhgFN2N-rtlmpLDtt7ayBTpsb)
